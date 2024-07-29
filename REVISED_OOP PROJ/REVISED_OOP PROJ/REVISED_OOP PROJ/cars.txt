@@ -1,0 +1,6 @@
+MIT123###Toyota###Vios###White###Automatic###2500.0
+ZYX674###Honda###Civic###Black###Manual###2000.0
+VIP359###Jeep###Avengers###Green###Manual###3000.0
+NOP679###Toyota###Fortuner###Gray###Automatic###4500.0
+ZYJ258###Toyota###Hiace###White###Manual###2000.0
+############Automatic###600.0
